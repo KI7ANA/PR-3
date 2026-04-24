@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img width="1215" height="916" alt="image" src="https://github.com/user-attachments/assets/5dde62c2-9ce4-4bb1-8cbb-17bb118f5ce7" />
+<img width="831" height="300" alt="image" src="https://github.com/user-attachments/assets/8ecfab8b-fac0-4e3e-a3dd-a32b809e733c" />
 
 *Рисунок 2. Атрибут `onClick` в XML-разметке*
 
