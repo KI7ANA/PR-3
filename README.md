@@ -150,7 +150,7 @@ myButton.setOnClickListener(new View.OnClickListener() {
 
 <div align="center">
 
-![Рисунок 6 - Результат задания 4](images/image_6.png)
+<img width="1234" height="923" alt="image" src="https://github.com/user-attachments/assets/21068c39-3fb0-4c23-a22f-1e4810b0bb6a" />
 
 *Рисунок 6. Результат задания 4*
 
