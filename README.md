@@ -125,7 +125,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
 <div align="center">
 
-![Рисунок 5 - Результат задания 3](images/image_5.png)
+<img width="1237" height="909" alt="image" src="https://github.com/user-attachments/assets/8ea2b9bd-01f4-4c36-a4fc-7ee1e4e64f62" />
 
 *Рисунок 5. Результат задания 3*
 
