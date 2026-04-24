@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![Рисунок 1 - Результат задания 1](images/image_1.png)
+<img width="1240" height="916" alt="image" src="https://github.com/user-attachments/assets/a961790b-4ae8-4c91-a1d6-dadf11e869fd" />
 
 *Рисунок 1. Результат задания 1*
 
