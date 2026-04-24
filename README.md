@@ -236,7 +236,7 @@ button3.setOnClickListener(new View.OnClickListener() {
 
 <div align="center">
 
-<img width="1237" height="901" alt="image" src="https://github.com/user-attachments/assets/7ce67581-352f-4a45-aeeb-fbb6fb018f38" />
+<img width="407" height="788" alt="image" src="https://github.com/user-attachments/assets/108b25e9-30b8-4223-8d14-8ce6593e67a4" />
 <img width="419" height="806" alt="image" src="https://github.com/user-attachments/assets/4174ca5e-f334-4652-9937-f221a213dd06" />
 
 *Рисунок 8. Результат самостоятельного задания*
