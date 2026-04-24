@@ -77,7 +77,7 @@ public void onButtonClick(View v) {
 
 <div align="center">
 
-![Рисунок 3 - Метод onButtonClick](images/image_3.png)
+<img width="422" height="808" alt="image" src="https://github.com/user-attachments/assets/a54b86c0-1dde-4c06-8f77-d156cfb8044e" />
 
 *Рисунок 3. Метод `onButtonClick` в `MainActivity.java`*
 
