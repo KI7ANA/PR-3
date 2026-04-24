@@ -220,7 +220,7 @@ button3.setOnClickListener(new View.OnClickListener() {
 
 <div align="center">
 
-![Рисунок 7 - Результат задания 5](images/image_7.png)
+<img width="1266" height="929" alt="image" src="https://github.com/user-attachments/assets/ff197070-af13-482b-bf98-8fc2226576c5" />
 
 *Рисунок 7. Результат задания 5 (нажатие на вторую кнопку)*
 
